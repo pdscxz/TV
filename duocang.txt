@@ -1,6 +1,6 @@
-{ "urls": [{ "url": "https://gitee.com/pdscxz/tv/raw/master/video/tv4k.json", "name": "爱TV吧" },
+{ "urls": [{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json", "name": "爱TV吧" },
 
-{ "url": "https://gitee.com/pdscxz/tv/raw/master/video/4k.json", "name": "纯4K" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/4k.json", "name": "纯4K" },
 
 { "url": "https://download.kstore.space/download/3313/mao/ymshaoer", "name": "儿童" },
 
