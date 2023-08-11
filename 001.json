@@ -11,7 +11,8 @@
 {"key": "csp_XYQHiker_‍dyx","name": "❤┃宙磁┃高清","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json","jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 //影探4K
 //{"key": "csp_appys_影探","name": "❤┃影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ytcms.lfytyl.com:80/api.php/app/"},    
-{"key": "csp_Czsapp","name": "🌉┃厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 1,"searchable": 1,"quickSearch": 1,"ext": "https://czzy.art/","filterable": 1},
+//南风
+{"key": "csp_Czsapp","name": "🏭┃厂长┃资源","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 //南风
 {"key": "csp_77","name": "👒酷云七七┃","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 //饭太硬
@@ -36,7 +37,6 @@
 {"key":"相声小品","name":"😁┃相声┃小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key": "戏 曲" ,"name": "😁┃老年┃戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
 {"key": "csp_WoGG","name": "👽玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
-//{"key": "csp_WoGG","name": "👽┃玩偶影视┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 {"key":"Yisou","name":"🖥┃阿里┃易搜索","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff"},
 {"key":"Zhaozy","name":"🖥┃阿里┃找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff$$$ygfxz$$$66666"},
 {"key": "Zhaozy","name": "🖥┃找资源┃4K","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$tvfan$$$tvfan"},
@@ -78,7 +78,7 @@
     {
       "name": "但行好事",
       "type": 1,
-      "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
+      "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=airuwyzBCGJQVXY069&url="
     },
     {
       "name": "莫问前程",
@@ -435,5 +435,5 @@
   ],
   "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
   "warningText": "感谢使用爱TV吧接口。",
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;26337356EF6C1BC0166FB966C8AB8B8F"
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;88395AF3CD17756128B3133AA8FC009F"
 }
