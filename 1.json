@@ -7,7 +7,8 @@
 //南风
 {"key": "csp_77","name": "👒酷云七七┃","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 //影探4K
-{"key": "csp_Czsapp","name": "🌉┃厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 1,"searchable": 1,"quickSearch": 1,"ext": "https://czzy.art/","filterable": 1},
+//肥猫
+{"key": "厂长","name": "🏭┃厂长┃影视","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://cz01.me/"},
 //饭太硬
 {"key": "csp_Nmys","name": "🌾农民┃直连","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://饭太硬.top/x/json/nmys.json"},
 {"key": "csp_Bttoo","name": "✌比特┃直连","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1},
@@ -61,7 +62,7 @@
     {
       "name": "但行好事",
       "type": 1,
-      "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
+      "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=airuwyzBCGJQVXY069&url="
     },
     {
       "name": "莫问前程",
@@ -418,7 +419,7 @@
   ],
   "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
   "warningText": "感谢使用爱TV吧接口。",
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;26337356EF6C1BC0166FB966C8AB8B8F"
+  "spider": "./video/jar/fm0803.jar"
 }
 
 
