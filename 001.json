@@ -1,7 +1,7 @@
 {
   "sites": [
 //饭太硬
-{"key": "js豆豆","name": "🐧公众号关注【爱TV吧】防失联(日期0802)","type": 3,"api": "http://xhww.fun:63/js/drpy1.min.js","ext": "http://smallmi.xiaohewanwan.love:63/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "豆瓣","name": "🐧公众号关注【爱TV吧】防失联(日期0802)","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/drpy.js"},
 {"key": "js豆瓣","name": "🐧公众号关注【爱TV吧】防失联(日期0802)","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"},
 //量子资源
 {"key":"58zy", "name":"🐧┃QQ群786344637┃", "type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","大陆综艺","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","综艺","日韩动漫","国产动漫"]},
@@ -16,8 +16,6 @@
 //南风
 {"key": "csp_77","name": "👒酷云七七┃","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 //饭太硬
-{"key": "drpy_js_酷云七七","name": "👒┃酷云┃七七","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷云77.js","playerType": 1,"quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0},
-{"key": "yyds","name": "🔥┃杳音┃影院","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","playerType": "2","ext": "http://alist.xn--z7x900a.love:63/yyds.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_YQKAPP","name": "🎉┃一起┃App","type": 3,"api": "csp_YQKAPP","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-aws.11ty.top"},
 //{"key":"棉花影视","name":"💞┃棉花┃影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"https://download.kstore.space/download/4127/6.txt"},
 //肥猫
@@ -435,5 +433,5 @@
   ],
   "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
   "warningText": "感谢使用爱TV吧接口。",
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;88395AF3CD17756128B3133AA8FC009F"
+  "spider": "http://tt.58cxz.com/video/jar/fm0803.jar"
 }
