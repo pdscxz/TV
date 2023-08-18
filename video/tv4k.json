@@ -1,26 +1,25 @@
 {
   "sites": [
 //饭太硬
-{"key": "js豆豆","name": "🐧公众号关注【爱TV吧】防失联(日期0802)","type": 3,"api": "http://xhww.fun:63/js/drpy1.min.js","ext": "http://smallmi.xiaohewanwan.love:63/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "js豆瓣","name": "🐧公众号关注【爱TV吧】防失联(日期0802)","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"},
+{"key": "豆瓣","name": "🐧公众号关注【爱TV吧】防失联(日期0818)","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/drpy.js"},
+{"key": "js豆瓣","name": "🐧公众号关注【爱TV吧】防失联(日期0818)","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"},
 //量子资源
-{"key":"58zy", "name":"🐧┃QQ群786344637┃", "type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","大陆综艺","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","综艺","日韩动漫","国产动漫"]},
+{"key":"58zy", "name":"🐧┃量子┃资源", "type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","大陆综艺","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","综艺","日韩动漫","国产动漫"]},
+{"key": "csp_appys_影探","name": "❤┃影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ytcms.lfytyl.com:80/api.php/app/"},    
 //阿驰小屋
 {"key": "荐片","name": "❤┃荐片┃磁力","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://smallmi.xiaohewanwan.love:63/jp.js"},
-{"key": "csp_XYQHikerAL_4KHDR","name": "❤┃盘磁┃4K","type": 3,"api": "csp_XYQHikerAL","playerType": 1,"searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://pan.shangui.cc/f/b8RaU1/4KHDR.json","jar": "https://pan.shangui.cc/f/d5vLfo/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"},
+{"key": "csp_XBPQ_6V","name": "❤┃宝盒┃磁力","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
 {"key": "csp_XYQHiker_‍dyx","name": "❤┃宙磁┃高清","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json","jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 //影探4K
 //{"key": "csp_appys_影探","name": "❤┃影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ytcms.lfytyl.com:80/api.php/app/"},    
 //肥猫
 {"key": "厂长","name": "🏭┃厂长┃影视","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://cz01.me/"},
+{"key": "素白","name": "🦢┃素白┃影视","type": 3,"api": "csp_XBPQ","ext": "http://我不是.肥猫.love:63/json/素白.json"},
 //南风
 {"key": "csp_77","name": "👒酷云七七┃","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 //饭太硬
-{"key": "yyds","name": "🔥┃杳音┃影院","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","playerType": "2","ext": "http://alist.xn--z7x900a.love:63/yyds.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_YQKAPP","name": "🎉┃一起┃App","type": 3,"api": "csp_YQKAPP","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-aws.11ty.top"},
-//{"key":"棉花影视","name":"💞┃棉花┃影视","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"https://api.haokantj.com","jar":"https://download.kstore.space/download/4127/6.txt"},
 //肥猫
-{"key": "csp_Lib","name": "💫┃Lib  ┃影视","type": 3,"api": "csp_Libvio","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 0,"ext": "https://tv.libvio.cc"},
 {"key": "csp_Bttoo","name": "🔺┃Btto┃影视","api": "csp_Bttwoo","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 //莱妮丝
 {"key": "乐猪TV","name": "乐猪┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": "https://tvbox.cainisi.cf/json/XBPQ/乐猪TV.json"},
