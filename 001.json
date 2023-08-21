@@ -2,7 +2,7 @@
   "sites": [
 //饭太硬
 {"key": "豆瓣","name": "🐧公众号关注【爱TV吧】防失联(日期0818)","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/drpy.js"},
-{"key": "js豆瓣","name": "🐧公众号关注【爱TV吧】防失联(日期0818)","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"},
+{"key": "js豆瓣","name": "🐧公众号关注【爱TV吧】防失联(日期0818)","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.m.js","ext": "http://alist.xn--z7x900a.love:63/豆.js"},
 //量子资源
 {"key":"58zy", "name":"🐧┃量子┃资源", "type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","大陆综艺","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","综艺","日韩动漫","国产动漫"]},
 {"key": "csp_appys_影探","name": "❤┃影探┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://zvvvvvwvvvvvwvvwvvvwvwvwwvwwvvvvvwvwwwwvvvvwvwvvwvvwwvwvvwvvvwv.lfytyl.com/api.php/app/"},    
