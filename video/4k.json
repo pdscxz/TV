@@ -5,7 +5,7 @@
 {"key": "js豆瓣","name": "🐧公众号关注【爱TV吧】防失联(日期0802)","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"},
 //{"key": "csp_KungFu404","name": "🎦有效聚合","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 1,"changeable": 0},
 //阿驰小屋
-{"key": "荐片","name": "❤┃荐片┃磁力","type": 3,"api": "http://alist.xn--z7x900a.love:63/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://smallmi.xiaohewanwan.love:63/jp.js"},
+{"key": "贱贱","name": "❤┃荐片┃磁力","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
 {"key": "csp_XYQHikerAL_4KHDR","name": "❤┃盘磁┃4K","type": 3,"api": "csp_XYQHikerAL","playerType": 1,"searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://pan.shangui.cc/f/b8RaU1/4KHDR.json","jar": "https://pan.shangui.cc/f/d5vLfo/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"},
 {"key": "csp_XYQHiker_‍dyx","name": "❤┃宙磁┃高清","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json","jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 //{"key": "csp_appys_影探","name": "❤影探|4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://ytcms.lfytyl.com:80/api.php/app/"},    
