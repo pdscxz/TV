@@ -1,8 +1,8 @@
 {
   "sites": [
 //饭太硬
-{"key": "豆瓣1","name": "🐧公众号关注【爱TV吧】防失联(日期0824)","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/drpy.js"},
-{"key": "豆瓣","name": "🐧公众号关注【爱TV吧】防失联(日期0824)","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "豆瓣1","name": "🐧公众号关注【爱TV吧】防失联(日期0831)","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"changeable": 0,"ext": "https://drpy.cainisi.cf/js/drpy.js"},
+{"key": "豆瓣","name": "🐧公众号关注【爱TV吧】防失联(日期0831)","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "csp_WoGG","name": "👽┃玩偶┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 //饭太硬
     {
