@@ -2,7 +2,7 @@
 
 { "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/4k.json", "name": "纯4K" },
 
-{ "url": "https://download.kstore.space/download/3313/mao/ymshaoer", "name": "儿童" },
+{ "url": "https://s2.pub/xymz", "name": "儿童" },
 
 { "url": "http://饭太硬.top/tv", "name": "饭太硬" },
 
