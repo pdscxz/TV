@@ -102,16 +102,6 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
-      "key": "陌陌",
-      "name": "🍄┃陌陌┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
       "key": "Auete",
       "name": "🏝┃奥特┃影视",
       "type": 3,
@@ -175,12 +165,12 @@
     {
       "name": "但行好事",
       "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
     },
     {
       "name": "莫问前程",
       "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
     {
       "name": "左岸解析",
@@ -205,7 +195,7 @@
     {
       "name": "小鱼解析",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
+      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
     },
     {
       "name": "夜曲解析",
