@@ -1,13 +1,13 @@
-{ "urls": [{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json", "name": "爱TV吧" },
+{ "urls": [{ "url": "http://tt.58cxz.com/001.json", "name": "爱TV吧" },
 
-{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/4k.json", "name": "纯4K" },
+{ "url": "http://tt.58cxz.com/video/4k.json", "name": "纯4K" },
 
-{ "url": "https://s2.pub/xymz", "name": "儿童" },
+{ "url": "https://s2.pub/shaoer", "name": "儿童" },
 
 { "url": "http://饭太硬.top/tv", "name": "饭太硬" },
 
 { "url": "http://肥猫.love", "name": "肥猫" },
 
-{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
 
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" }]}
+{ "url": "http://tt.58cxz.com/001.json", "name": "关注公众号【爱TV吧】防丢失噢" }]}
