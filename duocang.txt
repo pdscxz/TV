@@ -1,6 +1,6 @@
-{ "urls": [{ "url": "http://tt.58cxz.com/001.json", "name": "爱TV吧" },
+{ "urls": [{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/001.json", "name": "爱TV吧" },
 
-{ "url": "http://tt.58cxz.com/video/4k.json", "name": "纯4K" },
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/4k.json", "name": "纯4K" },
 
 { "url": "https://s2.pub/shaoer", "name": "儿童" },
 
