@@ -1,13 +1,11 @@
 {
   "sites": [
-//运输车
-    {"key":"豆瓣1","name":"🐧VIP接口公众号【爱TV吧】1120",
+     {
+      "key": "drpy_js_豆瓣",
+      "name": "🐧VIP接口公众号【爱TV吧】1120",
       "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/douban.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
     },
     {
       "key": "豆瓣",
