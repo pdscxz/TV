@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "豆瓣1",
-      "name": "🐧高级接口公众号回复【888】公众号【爱TV吧】",
+      "name": "🐧VIP【4K】接口进Q群【762987623】获取",
       "type": 3,
       "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 0,
@@ -13,13 +13,16 @@
     },
     {
       "key": "豆瓣",
-      "name": "🐧高级接口资源更多，速度更快",
+      "name": "🐧VIP【4K】接口进Q群【762987623】获取",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
+{"key":"hnzy", "name":"👰红牛资源(SP)", "type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1, "quickSearch":1},
+{"key":"gszy", "name":"👰光速资源(SP)", "type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1, "quickSearch":1},
+{"key": "BD","name": "🔌BD资源","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
     {
       "key": "Bili",
       "name": "🅱┃哔哔┃合集",
@@ -84,6 +87,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+    {  
+      "key": "lf_js_p2p",
+      "name": "磁力 | lf_p2p",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./video/js/lf_p2p2_min.js",
+      "ext": "http://饭太硬.top/x/json/nmys.json"
     },
     {
       "key": "厂长",
@@ -152,6 +166,16 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"
+    }
+  ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "parses": [
@@ -534,6 +558,6 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
-  "warningText": "感谢使用爱TV吧接口。",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/jar/fm0803.jar"
+  "warningText": "感谢使用。",
+  "spider": "http://tt.58cxz.com/video/jar/fm0803.jar"
 }
