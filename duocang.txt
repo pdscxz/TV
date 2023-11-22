@@ -4,4 +4,4 @@
 
 { "url": "https://s2.pub/shaoer", "name": "儿童" },
 
-{ "url": "http://tt.58cxz.com/001.json", "name": "关注公众号【爱TV吧】防丢失噢" }]}
+{ "url": "http://tt.58cxz.com/001.json", "name": "🐧VIP【4K】接口进Q群【762987623】获取" }]}
