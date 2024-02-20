@@ -1,0 +1,32 @@
+{
+  "urls": [
+    {
+      "url": "http://vip.qqqwww.xyz",
+      "name": "番茄VIP"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
+      "name": "纯4K"
+    },
+    {
+      "url": "https://d.kstore.space/download/4928/mfsj/srpd.json",
+      "name": "儿童"
+    },
+    {
+      "url": "http://饭太硬.top/tv",
+      "name": "饭太硬"
+    },
+    {
+      "url": "https://小白.love",
+      "name": "肥猫"
+    },
+    {
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
+      "name": "讴歌在线"
+    },
+    {
+      "url": "http://itvba.xyz/tv/",
+      "name": "关注公众号【番茄库吧】防丢失噢"
+    }
+  ]
+}
