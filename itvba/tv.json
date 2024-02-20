@@ -132,16 +132,16 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
     },
-//https://神器每日推送.tk/pz.json
+//http://rihou.cc:88/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/
     {
-      "key": "南坊",
-      "name": "🎃┃南坊┃App",
+      "key": "csp_厂长",
+      "name": "🎬┃️厂长┃资源",
       "type": 3,
-      "api": "csp_AppMao",
+      "api": "csp_CsCz",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
+      "ext": "https://bo.czys.me@@荷城茶秀",
+      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar"
     },
 
 
@@ -151,8 +151,8 @@
       "name": "🔥┃小胡┃4K",
       "type": 1,
       "playerType": 1,
-      "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
-      "jar": "http://xiaohu.xzam.cn/jar/1.jar"
+      "api": "http://xh.xzam.cn/api.php/provide/vod/",
+      "jar": "http://xiaohu.xzam.cn/jar/1.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec"
     },
     {
       "key": "fok",
@@ -184,6 +184,16 @@
     },
 
 
+
+//肥猫
+    {
+      "key": "奇优",
+      "name": " 🍩┃奇优┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/奇优.js"
+    },
 
 
     {
@@ -568,7 +578,7 @@
           "name": "直播",
           "type": 0,
           "playerType": 1,
-          "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/itvba/tv.txt",
+          "url": "http://tt.iitvba.com/tv.txt",
           //"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           //"logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
@@ -917,5 +927,5 @@
   ],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "warningText": "记得没事清理清理缓存哦",
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2"
+  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt;md5;87d5916b7bb5c8acacac5490e802828e"
 }
