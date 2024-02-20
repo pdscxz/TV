@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "http://vip.qqqwww.xyz",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/itvba/tv.json",
       "name": "番茄VIP"
     },
     {
