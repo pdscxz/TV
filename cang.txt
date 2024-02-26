@@ -2,11 +2,11 @@
   "urls": [
     {
       "url": "http://tv.tv520.shop",
-      "name": "🧡主接口🧡"
+      "name": "🧡主接口🧡公众号【爱TV吧】防失联🧡"
     },
     {
       "url": "http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
-      "name": "💚阿里4k💚"
+      "name": "💚阿里4k💚公众号【爱TV吧】防失联💚"
     },
     {
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
