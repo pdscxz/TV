@@ -2,11 +2,11 @@
   "urls": [
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/itvba/tv.json",
-      "name": "🧡公众号【爱TV吧】防失联🧡"
+      "name": "🧡vip接口🧡"
     },
     {
       "url": "http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
-      "name": "🧡公众号【爱TV吧】防失联💚"
+      "name": "🧡讴歌💚"
     },
     {
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
