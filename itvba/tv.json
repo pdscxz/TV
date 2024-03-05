@@ -2,14 +2,14 @@
   "sites": [
      {
       "key": "drpy_js_豆瓣",
-      "name": "🐧VIP接口0214",
+      "name": "🐧VIP接口0225",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
     },
     {
       "key": "豆瓣",
-      "name": "🐧VIP接口0214",
+      "name": "🐧VIP接口0225",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -184,6 +184,18 @@
     },
 
 
+//小米
+    {
+      "key": "南坊",
+      "name": "☀┃南坊┃App",
+      "type": 3,
+      "api": "csp_Appto",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ=="
+    },
+
 
 //肥猫
     {
@@ -263,16 +275,28 @@
 },
 
 
-//饭太硬
+//http://rihou.vip:55/天天开心
     {
-      "key": "九六",
-      "name": "🎀┃九六┃直连",
+      "key": "开心影视",
+      "name": "🎦┃开心┃影视",
       "type": 3,
-      "api": "csp_Cs1369",
-      "playerType": 2,
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": "http://rihou.vip:55/lib/开心影视.json",
+    "jar": "http://rihou.vip:55/lib/ttkx.jar"
+    },
+    {
+      "key": "两个BT",
+      "name": "🎦┃两个┃BT",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.vip:55/lib/bttwo.json",
+    "jar": "http://rihou.vip:55/lib/ttkx.jar"
     },
 //https://wds.ecsxs.com/230989.json
 {
@@ -927,5 +951,5 @@
   ],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "warningText": "记得没事清理清理缓存哦",
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt;md5;87d5916b7bb5c8acacac5490e802828e"
+  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f"
 }
