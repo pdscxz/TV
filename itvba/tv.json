@@ -2,14 +2,14 @@
   "sites": [
      {
       "key": "drpy_js_豆瓣",
-      "name": "🐧VIP接口0225",
+      "name": "🐧VIP接口0305",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
     },
     {
       "key": "豆瓣",
-      "name": "🐧VIP接口0225",
+      "name": "🐧VIP接口0305",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -132,17 +132,6 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
     },
-//http://rihou.cc:88/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/
-    {
-      "key": "csp_厂长",
-      "name": "🎬┃️厂长┃资源",
-      "type": 3,
-      "api": "csp_CsCz",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://bo.czys.me@@荷城茶秀",
-      "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar"
-    },
 
 
 //http://xiaohu.xzam.cn/xiaohu
@@ -151,28 +140,8 @@
       "name": "🔥┃小胡┃4K",
       "type": 1,
       "playerType": 1,
-      "api": "http://xh.xzam.cn/api.php/provide/vod/",
+      "api": "http://cc.xzam.cn/api.php/provide/vod/",
       "jar": "http://xiaohu.xzam.cn/jar/1.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec"
-    },
-    {
-      "key": "fok",
-      "name": "🌙┃夸克┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "ext": {
-        "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
-        "分类值": "1&2&3&4&12&5",
-        "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-        "副标题": "<div class=\"module-item-note\">&&</div>",
-        "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-        "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-        "线路标题": "<span>&&</small>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "简介": "<p>&&</p>"
-      }
     },
     {
       "key": "耐看",
@@ -182,22 +151,57 @@
       "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
       "ext": "http://xiaohu.xzam.cn/XBPQ/nk.json"
     },
+//http://w.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌
 
+	{
+    	"key":"追剧",
+    	"name":"💡┃追剧┃影视",
+    	"type":3,"api":"csp_TTian",
+    	"ext":"http://app.kzjtv.com",
+      "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b"
+	},
 
+    {
+      "key": "天天",
+      "name": "💡┃天天┃影视",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn",
+      "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b"
+    },
 //小米
     {
-      "key": "南坊",
-      "name": "☀┃南坊┃App",
+      "key": "蚂蚁",
+      "name": "🐜┃蚂蚁┃资源",
       "type": 3,
-      "api": "csp_Appto",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://122.228.84.103:5822/api.php/app/",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ=="
+      "changeable": 0
     },
 
 
 //肥猫
+    {
+      "key": "JOJO",
+      "name": "🐺┃JOJO┃影视",
+      "type": 3,
+      "api": "http://dt.xn--yety82d.love/js/jiohub.js",
+      "playerType": 1,
+      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240301.jar"
+    },
+    {
+      "key": "FreeOK",
+      "name": "️️👌┃Fre┃影视",
+      "type": 3,
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/FreeOK.js",
+      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240301.jar"
+    },
+//饭太硬
     {
       "key": "奇优",
       "name": " 🍩┃奇优┃影视",
@@ -310,18 +314,6 @@
 
 {"key":"ikunzy", "name":"🐓┃爱坤┃资源", "type":1,"api":"https://ikunzyapi.com/api.php/provide/vod ","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 
-//http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌
-
-    {
-      "key": "天天",
-      "name": "💡┃天天┃影视",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "http://op.ysdqjs.cn",
-      "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8"
-    },
-
 //////////////////////////////////////////
 //https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt
     {
@@ -351,17 +343,6 @@
 
 //////////////////////////////////////////
 
-
-//https://tv.lan2wan.top/candymuj1.json
-    {
-      "key": "csp_SixV",
-      "name": "💕┃磁力┃4K",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "ext": "https://www.6vdy.org/",
-    "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;64690215b0987464819e01f94be0251c"
-    },
 //http://rihou.vip:88/荷城茶秀
     {
       "key": "七新",
@@ -660,9 +641,9 @@
       }
     },
   {
-  "name":"json三",
+  "name":"蚂蚁",
   "type":1,
-  "url":"http://xiutan.shiyifacai.com/json/qingfeng.php?url=", 
+  "url":"http://121.62.61.51:6888/api/?key=n669JAmIzmG1K813tb&url=", 
   "ext": { 
   "flag": ["YuMi","SMD","FYNB","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
   "header":{"User-Agent":"okhttp/3.12.11"} } 
