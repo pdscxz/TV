@@ -1,44 +1,44 @@
 {
-                  "urls" : [
+  "urls": [
     {
-                      "url" : "http://tv.tv520.shop" ,
-                      "name" : "苏公公号爱猴TV吧-防风联盔"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/itvba/tv.json",
+      "name": "🧡公众号【爱TV吧】防失联🧡"
     },
     {
-                      "url" : "http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌" ,
-                      "name" : "苏公公号爱猴TV吧-防风联盔"
+      "url": "http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
+      "name": "🧡公众号【爱TV吧】防失联💚"
     },
     {
-                      "url" : "HttPS://ag.AI/你的微笑7/Tv盒/生/分/主控/Xc.json" ,
-                      "name" : "南风" 系列
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "name": "🧡南风🧡"
     },
     {
-                      "url" : "http://tt.iitvba.com/bata/教育.json" ,
-                     "name" : "儿童"
+      "url": "http://tt.iitvba.com/bata/教育.json",
+      "name": "🧡儿童🧡"
     },
     {
-                    "url" : "http://饭太硬.top/tv" ,
-                   "name" : "二OO字号"
+      "url": "http://饭太硬.top/tv",
+      "name": "🧡饭太硬🧡"
     },
     {
-                  "url" : "https://小白.love" ,
-                 "name" : "肥猫"
+      "url": "https://小白.love",
+      "name": "🧡肥猫🧡"
     },
     {
-                "url" : "http://xhww.fun:63/小米/DEMO.json" ,
-               "name" : "小米骆驼"
+      "url": "http://xhww.fun:63/小米/DEMO.json",
+      "name": "🧡小米🧡"
     },
     {
-              "url" : "http://xiaohu.xzam.cn/xiaohu" ,
-             "name" : "小胡" 集
+      "url": "http://xiaohu.xzam.cn/xiaohu",
+      "name": "🧡小胡🧡"
     },
     {
-            "url" : "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0" ,
-           "name" : "亚洲及太平洋
+      "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+      "name": "🧡吾爱🧡"
     },
     {
-          "url" : "http://rihou.vip:55/天天开心" ,
-         "name" :"新的一天"
+      "url": "http://rihou.vip:55/天天开心",
+      "name": "🧡天天🧡"
     }
   ]
 }
