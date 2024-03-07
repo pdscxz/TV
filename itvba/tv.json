@@ -2,14 +2,14 @@
   "sites": [
      {
       "key": "drpy_js_豆瓣",
-      "name": "🐧VIP接口0305",
+      "name": "🐧VIP接口0307",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
     },
     {
       "key": "豆瓣",
-      "name": "🐧VIP接口0305",
+      "name": "🐧VIP接口0307",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -97,8 +97,21 @@
       "ext": "http://rihou.vip:88/hccx/哔哩经典.json",
     "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
     },
-    
-    
+//讴歌
+    {
+        "key":"drpy_js_310直播",
+        "name":"⚽┃310┃直播",
+        "type":3,
+        "api":"http://nxog.eu.org/m/js/nxog.js",
+        "ext":"http://nxog.eu.org/m/js/310.js"
+    },
+    {
+        "key":"drpy_js_88看球",
+        "name":"⚽┃88┃看球",
+        "type":3,
+        "api":"http://nxog.eu.org/m/js/nxog.js",
+        "ext":"http://nxog.eu.org/m/js/88.js"
+    },    
     
 //http://qrh.yimkj.cn/ym/壹梦.json
 
@@ -474,24 +487,26 @@
     },
 
 
-
-//肥猫
-    {
-      "key": "短剧one",
-      "name": "🥰┃短剧┃视频",
-      "type": 3,
-      "api": "csp_Panda",
-      "ext": "https://d.kstore.space/download/6296/json/短剧.json",
-    "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+//http://nxog.eu.org/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌
+    {"key":"横版影院",
+        "name":"📹┃短剧1┃短剧",
+        "type":1,
+        "api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "categories":["短剧"],
+      "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b"
     },
-//肥猫
     {
-      "key": "种子短剧",
-      "name": "💮┃短剧┃视频",
-      "type": 3,
-      "api": "csp_Panda",
-      "ext": "分类url:http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1",
-    "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+        "key":"短剧",
+        "name":"📹┃短剧┃短剧2",
+        "type":3,"api":"csp_App",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":0,
+        "ext":"https://zzdj.cc/api.php/provide/vod",
+      "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b"
     },
     
     
