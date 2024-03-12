@@ -3,8 +3,6 @@
   "spider": "http://ftp6284928.host108.abeiyun.cn/h/jar/h.jar;md5;adc2b3038c24d8d5d6c89d760c934875",
   "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xsaTg3NzkxODIvOS9yYXcvYnJhbmNoL21hc3Rlci9oemI="]}]}],
   "sites": [
-
-     {"key":"115","name":"🥇115","type":0,"api":"https://caiji.semaozy.net/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"博天堂","name":"🥇博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"环亚","name":"🥇环亚","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"美少女","name":"🥇美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
