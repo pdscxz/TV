@@ -2,14 +2,14 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🐧VIP接口0325",
+      "name": "🐧VIP接口0328",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
     },
     {
       "key": "豆瓣",
-      "name": "🐧VIP接口0323",
+      "name": "🐧VIP接口0328",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -540,30 +540,44 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
-      "key": "csp_Pansou",
-      "name": "🚢┃盘搜┃网盘",
+      "key": "YiSo",
+      "name": "😹易搜┃搜索",
       "type": 3,
-      "api": "csp_Pansou",
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
-      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240309.jar;md5;cddfd3426da27e89c7195ea79637028a"
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
-      "key": "csp_PanSearch",
-      "name": "🚃┃盘搜┃网盘2",
+      "key": "PanSou",
+      "name": "🦊┃盘搜┃搜索",
       "type": 3,
-      "api": "csp_PanSearch",
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
-      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240309.jar;md5;cddfd3426da27e89c7195ea79637028a"
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
-      "key": "csp_UpYun",
-      "name": "🍒┃Up搜┃网盘",
+      "key": "UpYun",
+      "name": "😻┃Up搜┃搜索",
       "type": 3,
       "api": "csp_UpYun",
-      "timeout": 30,
+      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
-      "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240309.jar;md5;cddfd3426da27e89c7195ea79637028a"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🙀┃盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
 ////////////////////////////////////////////////////////////////////////////////////////////////
     {
