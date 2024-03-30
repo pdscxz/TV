@@ -1,4 +1,5 @@
 CCTV,#genre#
+使用说明,http://luntan.jdwei8.cn/bbs%E8%A7%86%E9%A2%91/3%E6%9C%8830%E6%97%A5%281%29.mp4
 CCTV-01 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-02 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-03 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
