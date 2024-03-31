@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🐧VIP接口0328",
+      "name": "🐧VIP接口0331",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
