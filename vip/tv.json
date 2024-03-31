@@ -174,7 +174,17 @@
     "jar": "./jar/XYQF823.jar"
      
  },
- 
+  //https://gitee.com/dongchenys/liu/raw/master/hc.json
+     {
+      "key": "AList",
+      "name": "📕┃雅雅┃4K",
+      "type": 3,
+      "api": "csp_AList",
+      "jar": "https://gitee.com/dongchenys/liu/raw/master/jar/smdy.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://gitee.com/dongchenys/liu/raw/master/json/Alist.json"
+    },
     //道长
     {
       "key": "drpy_js_360影视",
