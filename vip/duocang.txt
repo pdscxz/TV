@@ -1,6 +1,6 @@
 { "urls": [{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/vip/tv.json", "name": "vip" },
 
-{ "url": "http://pandown.pro/tvbox/tvbox.json", "name": "巧技" },
+{ "url": "https://gitee.com/dongchenys/liu/raw/master/hc.json", "name": "东城" },
 
 { "url": "http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌", "name": "4K" },
 
