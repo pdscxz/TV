@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🐧VIP接口0331",
+      "name": "🐧论坛数据迁移中，很快恢复",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
@@ -991,6 +991,6 @@
     "http://itvba.xyz/tv/jar/fty1020.jar"
   ],
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
-  "warningText": "记得没事清理清理缓存哦",
+  "warningText": "论坛被举报，数据迁移中，很快恢复",
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296"
 }
