@@ -159,6 +159,54 @@
     "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5f17d8fe24bbde9e1bd24189ae3cde21"
     },
 /////////////////////////////////////////////////////////////////////
+//肥猫
+    {
+      "key": "新视觉",
+      "name": "🐦┃视觉┃影视",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.80yy3.com/",
+    "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+    },
+    {
+      "key": "csp_Juqq",
+      "name": "⭕┃剧圈┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Juqq",
+    "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+    },
+    {
+      "key": "csp_NfApp",
+      "name": "🔷┃南坊┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_NfApp",
+    "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+    },
+    {
+      "key": "白嫖",
+      "name": "🌅┃白嫖┃影视",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": "2",
+    "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+    },
+    {
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "👲┃玩偶┃影视②",
+      "api": "csp_Wogg",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
+    "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+    },
 //http://rihou.vip:55/天天开心
     {
     "key":"荐片",
