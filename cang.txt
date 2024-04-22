@@ -5,7 +5,7 @@
       "name": "🧡公众号【爱TV吧】防失联🧡"
     },
     {
-      "url": "http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
       "name": "🧡公众号【爱TV吧】防失联💚"
     },
     {
@@ -17,7 +17,7 @@
       "name": "🧡儿童🧡"
     },
     {
-      "url": "http://饭太硬.top/tv",
+      "url": "http://fan.xxooo.cf/tv",
       "name": "🧡饭太硬🧡"
     },
     {
@@ -29,7 +29,7 @@
       "name": "🧡小米🧡"
     },
     {
-      "url": "http://xiaohu.xzam.cn/xiaohu",
+      "url": "https://huhuys.top/xiaohu",
       "name": "🧡小胡🧡"
     },
     {
