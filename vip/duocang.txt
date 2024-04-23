@@ -2,14 +2,14 @@
 
 { "url": "https://gitee.com/dongchenys/liu/raw/master/hc.json", "name": "东城" },
 
-{ "url": "http://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌", "name": "4K" },
+{ "url": "http://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌", "name": "4K" },
 
 { "url": "http://tt.iitvba.com/bata/教育.json", "name": "儿童" },
 
-{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
+{ "url": "http://fan.xxooo.cf/tv", "name": "饭太硬" },
 
 { "url": "https://小白.love", "name": "肥猫" },
 
-{ "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌", "name": "讴歌在线" },
+{ "url": "http://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌", "name": "讴歌在线" },
 
 { "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/vip/tv.json", "name": "vip" }]}
