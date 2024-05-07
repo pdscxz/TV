@@ -2,14 +2,14 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🐧VIP接口0422",
+      "name": "🐧VIP接口0507",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
     },
     {
       "key": "豆瓣",
-      "name": "🐧VIP接口0422",
+      "name": "🐧VIP接口0507",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -125,23 +125,35 @@
       "ext": "./js/miaobo.json",
           "jar": "./jar/dongchen.jar"
     },
+    
+    {
+      "key": "JOJO",
+      "name": "🍭┃JOJO┃直连",
+      "type": 3,
+      "api": "csp_Jiohub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10,
+    "jar": "./jar/123456.txt"
+    },
 //饭太硬 
     {
       "key": "厂长",
       "name": "📔┃厂长┃无广",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_NewCz",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.cz233.com/"
+      "ext": "https://czzy.top/"
     },
 //http://pandown.pro/tvbox/tvbox.json
     {
       "key": "AI3",
-      "name": "AI1┃仅搜索",
+      "name": "🧞AI1┃仅搜索",
       "type": 3,
       "api": "csp_AI",
       "searchable": 1,
@@ -197,30 +209,11 @@
 /////////////////////////////////////////////////////////////////////
 //肥猫
     {
-      "key": "新视觉",
-      "name": "🐦┃视觉┃影视",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.80yy3.com/",
-    "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
-    },
-    {
       "key": "csp_Juqq",
       "name": "⭕┃剧圈┃影视",
       "type": 3,
       "playerType": "2",
       "api": "csp_Juqq",
-    "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
-    },
-    {
-      "key": "csp_NfApp",
-      "name": "🔷┃南坊┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_NfApp",
     "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
     },
     {
@@ -274,36 +267,6 @@
      "filterable":0,
     "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;10e0197bf1b477a4eefa78b71aef687e"
         
-    },
-    {
-      "key": "小柚",
-      "name": "❤┃小柚┃App",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
-    },
-//https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8
-  {
-		"key": "drpy_侬好",
-		"name": "💖┃分享┃vip",
-		"type": 3,
-		"api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-		"ext": "https://pan.shangui.cc/f/2ZJ8hx/ygfxz.js"
-	},
-    {
-      "key": "FEIYUN",
-      "name": "💖┃分享┃飞云",
-      "type": 3,
-      "api": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
-      "ext": {
-        "host": "http://122.228.84.103:6117/api.php/app/",
-        "*": [
-          "http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="
-        ]
-      }
     },
     
     {
@@ -369,50 +332,16 @@
       "changeable": 1,
       "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
     },
-    
-    
-    
-    {
-      "key": "77",
-      "name": "👒┃七七┃App",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
 
 //http://qrh.yimkj.cn/ym/壹梦.json
 {"key": "奈飞中文","name":"🎗┃奈飞┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://qrh.yimkj.cn/ym/lib/nfzw.json",
     "jar": "http://qrh.yimkj.cn/ym/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949"
 },
-//http://rihou.vip:55/天天开心
-    {
-      "key": "csp_xBPQ_奇优",
-      "name": "🎦┃奇优┃秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://rihou.vip:55/lib/qiyou.json",
-    "jar": "http://rihou.vip:55/lib/ttkx.jar"
-    },
 
 
 {"key":"ikunzy", "name":"🐓┃爱坤┃资源", "type":1,"api":"https://ikunzyapi.com/api.php/provide/vod ","searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 //////////////////////////////////////////
 
-//饭太硬
-    {
-      "key": "一起看 ",
-      "name": "❤┃一起┃2K",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
     {
       "key": "Bili",
       "name": "🅱┃哔哔┃合集",
@@ -781,7 +710,7 @@
 
 //===========解析完成==================================
 
-  "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "warningText": "恭喜发财",
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713606500967/fan.txt;md5;5d951f2dbd9e24ce7cc82c59d46f8417"
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714982657770/fan.txt;md5;5c80b7ff2b016f49144335e5c48883c5"
 }
