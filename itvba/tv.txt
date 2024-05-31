@@ -138,7 +138,7 @@ CCTV-5＋体育赛事高清,http://opdf.top:8088/rtp/239.81.0.101:4056
 CCTV-16奥林匹克高清,http://opdf.top:8088/rtp/239.81.0.142:4056
 CCTV-17农业农村高清,http://opdf.top:8088/rtp/239.81.0.228:4056
 
-港·澳·台_8023,#genre#
+港·澳·台,#genre#
 凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 文旅香港频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
