@@ -1,4 +1,5 @@
 {
+     "spider": "https://gitee.com/iitvbox/jar/raw/master/肥猫/fm.jar",
     "warningText": "【【请勿相信所有弹窗以及视频内广告内容】】",
     "wallpaper": "https://深色壁纸.饭.eu.org/",
     "sites": [
@@ -702,12 +703,12 @@
       "name": "XIUTAN",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
       "type": 0,
-      "url": "https://xhdwc.tk/xiutan.m3u"
+      "url": "https://notabug.org/pdscxz/zbdz/raw/4a7cd06c012ed624f9458e6c60872404415a3fdb/tv.txt"
     },
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://notabug.org/pdscxz/zbdz/raw/4a7cd06c012ed624f9458e6c60872404415a3fdb/tv.txt",
       "playerType": 1
     }
   ]
